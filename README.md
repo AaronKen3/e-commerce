@@ -25,6 +25,9 @@
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   
 💻 Below is the gif showing the functionality of the application:
+
+LINK to VIDEO: https://app.castify.com/view/9a3f6942-b49b-45d0-a12c-118adfbf15f5
+
   
 ![DB Setup and Start](./animations/DB%20setup%20and%20start.gif)
 
